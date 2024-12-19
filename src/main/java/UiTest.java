@@ -45,7 +45,7 @@ public class UiTest {
         if (expectedText.equals(txtOnThePage)) {
             System.out.println("Тест пройден верно");
         } else {
-            System.out.println("Тест не пройден 111");
+            System.out.println("Тест не пройден");
         }
 
         System.out.println("");
